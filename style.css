@@ -20,3 +20,8 @@ body
     background-color: black; /* Le fond de la page sera noir */
     color: white; /* Le texte de la page sera blanc */
 }
+
+.photograph
+{
+	border: 3px black solid;
+}
