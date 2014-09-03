@@ -24,4 +24,5 @@ body
 .photograph
 {
 	border: 3px black solid;
+	width: 100px;
 }
